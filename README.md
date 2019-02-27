@@ -1,2 +1,2 @@
 # automato
-Projeto de automação Spider
+Projeto Deploy automatico com weblogic
